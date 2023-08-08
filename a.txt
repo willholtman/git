@@ -3,3 +3,4 @@ entendendo o HEAD
 Esta linha foi modificada no ramo master
 Esta linha foi modificada no ramo teste
 trabalhando em um projeto com varios repositorios locais
+Esta linha foi modificada com git clone
